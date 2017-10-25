@@ -1,4 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
+# Projeto de instalação do Arch Linux para Dispositivos Android
+# na arquitetura armv7(32Bit) e armv8(64Bit).
 echo
 DIRECTORY="/data/data/com.termux/files/usr/share/figlet"
 if [ ! -d "$DIRECTORY" ]; then
